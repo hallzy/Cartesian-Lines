@@ -1,0 +1,13 @@
+This is a C++ Program that takes 8 user inputs which are the (x,y) coordinates
+of 4 points.
+
+The program forms a line with the first two, and last two points and outputs
+information such as the distance between the two points, the x-intercept of
+the line that is formed, and the y=mx+b equation.
+
+Then it Checks if the two lines are parallel or not. If they are, it says that
+they are parallel. If they are not parallel, it performs more calculations to
+find the (x,y) point of intersection.
+
+It also handles verticle lines. This means that if a verical line is entered,
+instead of displaying the y=mx+b equation it will display and "x =" equation, and it is still able to find the point of intersection.
