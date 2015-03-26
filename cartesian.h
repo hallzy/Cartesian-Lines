@@ -10,8 +10,8 @@
 **********************************************************************************
 */
 
-#ifndef __CARTESIAN_H_INCLUDED__   
-#define __CARTESIAN_H_INCLUDED__  
+#ifndef __CARTESIAN_H_INCLUDED__
+#define __CARTESIAN_H_INCLUDED__
 
 /**********************************************************
 *   Beginning of Class Declaration
